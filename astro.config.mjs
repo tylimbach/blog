@@ -6,6 +6,7 @@ import sitemap from '@astrojs/sitemap';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://tylimbach.github.io/blog/',
+  base: 'blog',
   outDir: 'dist',
   integrations: [mdx(), sitemap()],
 });

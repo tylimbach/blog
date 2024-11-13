@@ -2,7 +2,7 @@
 title: 'N-Body Physics From Scratch'
 description: 'A journey of numerical and computational optimization when building an n-body simulator from scratch.'
 pubDate: 'Nov 19 2024'
-heroImage: '/blog-placeholder-1.jpg'
+heroImage: '/blog/blog-placeholder-1.jpg'
 ---
 
 Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
